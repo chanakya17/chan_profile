@@ -30,4 +30,4 @@ Credits:
 		Poptrox (github.com/ajlkn/jquery.poptrox)
 		Responsive Tools (github.com/ajlkn/responsive-tools)
 
-		hello
+		hel
